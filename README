@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+int i=2;
+int j=5;
+int k;
+k=i+j;
+printf("the output is %d",K);
+}
